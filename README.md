@@ -60,7 +60,7 @@ The goal was to identify performance trends, detect potential loss patterns, and
 
 ## 🔗 Preview & Access
 
-- 📄 [View Dashboard PDF](Neotechdata%20dashboard.pdf)
+- 📄 [View Dashboard PDF](https://in.docworkspace.com/d/sIEuJ1bGsAtahv8MG?sa=601.1037)
 - 💾 Download the .pbix file to explore or modify the dashboard
 
 
